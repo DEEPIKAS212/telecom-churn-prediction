@@ -1,2 +1,4 @@
 # telecom-churn-prediction
 Telecom Churn Prediction is a machine learning project that predicts whether a customer is likely to leave a telecom service provider based on usage patterns, service details, and customer demographics. The project involves data cleaning, EDA, feature engineering, model building, and evaluation to help business reduce customer attrition.
+Telecom Churn Prediction aims to identify customers who are likely to churn using historical telecom customer data. The project includes end-to-end machine learning workflow starting from data cleaning and EDA to feature engineering, model training, and performance evaluation.
+Multiple machine learning models such as LogisticRegression, DecisionTree, RandomForest, and GradientBoosting were trained and compared using evaluation metrics including Accuracy, Precision, Recall, F1score and ROC-AUC. The final model helps telecom companies take proactive retention actions by identifying high-risk customers
